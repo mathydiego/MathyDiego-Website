@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Poker Project",
+"productVersion": "0.1",
+"dataUrl": "The Poker Project part 1.data.unityweb",
+"wasmCodeUrl": "The Poker Project part 1.wasm.code.unityweb",
+"wasmFrameworkUrl": "The Poker Project part 1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.5f1"
+}
