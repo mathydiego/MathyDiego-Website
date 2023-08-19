@@ -1,0 +1,15 @@
+screen size,,independent reels,,lines file name,,pay table symbols,,wilds,multiplier,,bonus symbols,,scatters,value,,mutators,,mutator values,weights rp1,,pickem 6,pickem 7,pickem 8,pickem 9,pickem 10,pickem 11,pickem 12,pickem 13,pickem 14,,reels 0 weighted,,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,reels 0,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,weights,,game
+33333,,15,,ways,,WD,,WD,1,,BN,,SC,0,,RP1,,SC,1,,0,0,0,0,0,0,0,0,0,,TRUE,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,gots000
+,,,,,,M1,,,,,,,,,,,,,,,25,25,25,25,25,25,25,25,25,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,do not remove this last column
+,,,,,,M2,,,,,,,,,,,,,,,25,25,25,25,25,25,25,25,25,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,M3,,,,,,,,,,,,,,,25,25,25,25,25,25,25,25,25,,,,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,4,4,1,4,4,4,4,1,4,4,1,4,4,4,1,,
+,,,,,,M4,,,,,,,,,,,,,,,50,50,50,50,50,50,50,50,50,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,30,28,28,60,28,28,28,60,,
+,,,,,,F5,,,,,,,,,,,,,,,50,50,50,50,50,50,50,50,50,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,F6,,,,,,,,,,,,,,,,75,75,75,75,75,75,75,75,,,,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,5,5,1,5,5,5,5,1,5,5,1,5,5,5,1,,
+,,,,,,F7,,,,,,,,,,,,,,,,,75,75,75,75,75,75,75,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,30,28,28,60,28,28,28,60,,
+,,,,,,F8,,,,,,,,,,,,,,,,,,75,75,75,75,75,75,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,F9,,,,,,,,,,,,,,,,,,,80,80,80,80,80,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,F10,,,,,,,,,,,,,,,,,,,,80,80,80,80,,,,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,5,5,1,5,5,5,5,1,5,5,1,5,5,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,100,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,,,,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,BL,28,28,60,28,28,28,28,40,28,28,60,28,28,28,60,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,SC,5,5,1,5,5,5,5,1,5,5,1,5,5,5,1,,
